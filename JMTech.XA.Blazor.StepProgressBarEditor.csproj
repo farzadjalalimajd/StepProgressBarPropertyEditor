@@ -7,7 +7,7 @@
 	<AssemblyVersion>24.2.8.0</AssemblyVersion>
 	<Version>24.2.8.0</Version>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<RepositoryUrl>https://github.com/farzadjalalimajd/StepProgressBarPropertyEditor</RepositoryUrl>
+	<RepositoryUrl>https://github.com/farzadjalalimajd/JMTech.XA.Blazor.StepProgressBarEditor</RepositoryUrl>
 	<Title>ExpressApp Blazor StepProgressBarPropertyEditor</Title>
 	<Authors>Farzad Jalali Majd</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
